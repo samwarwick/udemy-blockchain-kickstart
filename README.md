@@ -1,4 +1,4 @@
-# udemy-blockchain-lottery
+# udemy-blockchain-kickstart
 
 Completed Kickstart (CrowdCoint) project exercise from Udemy course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/).
 
